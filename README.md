@@ -2,7 +2,7 @@
 This repository contains the code for MASA.
 
 ### Installation
-All of the dependencies are in the requirements.txt. You can build it with the following command:
+All of the dependencies are in the requirements.txt. You can build the environment with the following command:
 
 `conda create --name <env> --file requirements.txt`
 
