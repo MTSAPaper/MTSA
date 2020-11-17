@@ -1,7 +1,8 @@
 # MASA: Multimodal Alignment for Sentiment Analysis
 This repository contains the code for MASA.
 
-### All of the dependencies are in the requirements.txt. You can build it with the following command:
+### Installation
+All of the dependencies are in the requirements.txt. You can build it with the following command:
 
 `conda create --name <env> --file requirements.txt`
 
