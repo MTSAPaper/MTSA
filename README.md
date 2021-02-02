@@ -17,3 +17,11 @@ To load the checkpoint or results, please follow the instructions below.
 1. Set the ckpt_path to the path of checkpoint you want to load.
 2. Set the res_path to the path of results you want to load or write.
 3. Run `python stats.py`
+
+### Data Download
+
+The pre-processed data is downloadable at:
+
+MOSI: https://www.jianguoyun.com/p/DV1YEgUQvP35Bhim9d8D
+
+MOSEI: https://www.jianguoyun.com/p/DVw4E7EQvP35Bhir9d8D
