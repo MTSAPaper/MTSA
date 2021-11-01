@@ -1,5 +1,5 @@
-# MASA: Multimodal Alignment for Sentiment Analysis
-This repository contains the code for MASA.
+# MTSA:  Multimodal Translation for Sentiment Analysis
+This repository contains the code for MTSA.
 
 ### Installation
 All of the dependencies are in the requirements.txt. You can build the environment with the following command:
